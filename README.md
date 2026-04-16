@@ -1,4 +1,4 @@
-# Lawyer Website - مدرستنا القانونية الحديثة ⚖️
+# Lawyer Website - مكتب المحامي ⚖️
 
 A premium, immersive, and responsive landing page for a modern Law Firm. This project features a sophisticated dark-themed design with gold accents, smooth animations, and a 3D interactive background.
 
